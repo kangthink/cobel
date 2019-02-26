@@ -39,4 +39,7 @@ The whole structure of this project focuses on showing common concepts across pr
 - 접근 제어
 
 # How to Contribute?
-...
+
+As mentioned, this project is for novice programmers around the world. We are welcome to contribute easier explanations with images and brilliant anologies; bright code snippets showing the mechanism intuitively; and translations to different languages.
+
+
