@@ -13,6 +13,7 @@ The whole structure of this project focuses on showing common concepts across pr
 
 - Basics
 - Datatypes
+- Operators
 - Control Flow
 - Functions
 - Classes (Objects, Prototpye, ...)
@@ -28,6 +29,7 @@ The whole structure of this project focuses on showing common concepts across pr
 
 - 기초
 - 데이터타입
+- 연산자
 - 제어 흐름
 - 함수
 - 클래스 (객체, 프로토타입...)
